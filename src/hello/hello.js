@@ -1,3 +1,3 @@
 export default function hello() {
-  console.log('hello 6'); // eslint-disable-line
+  console.log('hello'); // eslint-disable-line
 }
