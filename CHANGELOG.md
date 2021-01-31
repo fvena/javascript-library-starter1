@@ -1,10 +1,14 @@
-# [1.1.0-beta.1](https://github.com/fvena/javascript-library-starter1/compare/v1.0.0...v1.1.0-beta.1) (2021-01-31)
-
+# [1.2.0](https://github.com/fvena/javascript-library-starter1/compare/v1.1.0...v1.2.0) (2021-01-31)
 
 ### Features
 
 * actualizando la configuración de las ramas ([5802e05](https://github.com/fvena/javascript-library-starter1/commit/5802e05aeb797dbe1b93c3c22490b4ee16cbf46e))
-* añadida configuración para beta ([7e23279](https://github.com/fvena/javascript-library-starter1/commit/7e23279f8bd8f29b4b65354a0a186b3bae98a8c7))
+
+# [1.1.0](https://github.com/fvena/javascript-library-starter1/compare/v1.0.0...v1.1.0) (2021-01-31)
+
+
+### Features
+
 * prueba 4 ([8598c2c](https://github.com/fvena/javascript-library-starter1/commit/8598c2c3ef38a3d4d229a31998e16f03160b87f6))
 
 # 1.0.0 (2021-01-31)
