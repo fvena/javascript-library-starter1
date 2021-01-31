@@ -1,6 +1,5 @@
 # [1.2.0](https://github.com/fvena/javascript-library-starter1/compare/v1.1.0...v1.2.0) (2021-01-31)
 
-
 ### Features
 
 * actualizando la configuración de las ramas ([5802e05](https://github.com/fvena/javascript-library-starter1/commit/5802e05aeb797dbe1b93c3c22490b4ee16cbf46e))
