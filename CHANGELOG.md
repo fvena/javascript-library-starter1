@@ -1,3 +1,10 @@
+# [1.3.0-beta.1](https://github.com/fvena/javascript-library-starter1/compare/v1.2.0...v1.3.0-beta.1) (2021-01-31)
+
+
+### Features
+
+* añadida configuración para beta ([7e23279](https://github.com/fvena/javascript-library-starter1/commit/7e23279f8bd8f29b4b65354a0a186b3bae98a8c7))
+
 # [1.2.0](https://github.com/fvena/javascript-library-starter1/compare/v1.1.0...v1.2.0) (2021-01-31)
 
 ### Features
