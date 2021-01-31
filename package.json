@@ -16,10 +16,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/fvena/javascript-library-starter"
+    "url": "https://github.com/fvena/javascript-library-starter1"
   },
-  "homepage": "https://github.com/fvena/javascript-library-starter",
-  "bugs": "https://github.com/fvena/javascript-library-starter/issues",
+  "homepage": "https://github.com/fvena/javascript-library-starter1",
+  "bugs": "https://github.com/fvena/javascript-library-starter1/issues",
   "scripts": {
     "dev": "rollup -c -w",
     "build": "rollup -c"
