@@ -93,7 +93,7 @@
       [
         "@qiwi/semantic-release-gh-pages-plugin",
         {
-          "src": ".vuepress/dist"
+          "src": "docs/.vuepress/dist"
         }
       ]
     ]
