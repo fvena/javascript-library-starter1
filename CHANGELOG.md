@@ -1,28 +1,32 @@
-# [1.3.0](https://github.com/fvena/javascript-library-starter1/compare/v1.2.0...v1.3.0) (2021-01-31)
+# [1.3.0-beta.3](https://github.com/fvena/javascript-library-starter1/compare/v1.3.0-beta.2...v1.3.0-beta.3) (2021-02-01)
 
 
 ### Features
 
-* añadida configuración para beta ([7e23279](https://github.com/fvena/javascript-library-starter1/commit/7e23279f8bd8f29b4b65354a0a186b3bae98a8c7))
+* añadiendo más plugins ([64af2c7](https://github.com/fvena/javascript-library-starter1/commit/64af2c72564861819db159cd52a07b364affd03a))
+
+# [1.3.0-beta.1](https://github.com/fvena/javascript-library-starter1/compare/v1.2.0...v1.3.0-beta.1) (2021-01-31)
+
+### Features
+
+- añadida configuración para beta ([7e23279](https://github.com/fvena/javascript-library-starter1/commit/7e23279f8bd8f29b4b65354a0a186b3bae98a8c7))
 
 # [1.2.0](https://github.com/fvena/javascript-library-starter1/compare/v1.1.0...v1.2.0) (2021-01-31)
 
 ### Features
 
-* actualizando la configuración de las ramas ([5802e05](https://github.com/fvena/javascript-library-starter1/commit/5802e05aeb797dbe1b93c3c22490b4ee16cbf46e))
+- actualizando la configuración de las ramas ([5802e05](https://github.com/fvena/javascript-library-starter1/commit/5802e05aeb797dbe1b93c3c22490b4ee16cbf46e))
 
 # [1.1.0](https://github.com/fvena/javascript-library-starter1/compare/v1.0.0...v1.1.0) (2021-01-31)
 
-
 ### Features
 
-* prueba 4 ([8598c2c](https://github.com/fvena/javascript-library-starter1/commit/8598c2c3ef38a3d4d229a31998e16f03160b87f6))
+- prueba 4 ([8598c2c](https://github.com/fvena/javascript-library-starter1/commit/8598c2c3ef38a3d4d229a31998e16f03160b87f6))
 
 # 1.0.0 (2021-01-31)
 
-
 ### Features
 
-* prueba 1 ([acb9aae](https://github.com/fvena/javascript-library-starter1/commit/acb9aae45004e7e51e5ccb947a5ad41d21546f4c))
-* prueba 2 ([966800f](https://github.com/fvena/javascript-library-starter1/commit/966800f90755168c1c04bd8de9a3c5ca2d3854ac))
-* prueba 3 ([e69e8ab](https://github.com/fvena/javascript-library-starter1/commit/e69e8abd1ce10843acd1db2623222ea2ae3b048c))
+- prueba 1 ([acb9aae](https://github.com/fvena/javascript-library-starter1/commit/acb9aae45004e7e51e5ccb947a5ad41d21546f4c))
+- prueba 2 ([966800f](https://github.com/fvena/javascript-library-starter1/commit/966800f90755168c1c04bd8de9a3c5ca2d3854ac))
+- prueba 3 ([e69e8ab](https://github.com/fvena/javascript-library-starter1/commit/e69e8abd1ce10843acd1db2623222ea2ae3b048c))
