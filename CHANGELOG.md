@@ -1,3 +1,10 @@
+# [1.4.0-beta.7](https://github.com/fvena/javascript-library-starter1/compare/v1.4.0-beta.6...v1.4.0-beta.7) (2021-02-17)
+
+
+### Features
+
+* asdfasdfasd ([b92777a](https://github.com/fvena/javascript-library-starter1/commit/b92777a4752ba03277fcfeb7de865008a22f25cb))
+
 # [1.4.0-beta.6](https://github.com/fvena/javascript-library-starter1/compare/v1.4.0-beta.5...v1.4.0-beta.6) (2021-02-17)
 
 
