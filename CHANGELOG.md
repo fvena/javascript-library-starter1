@@ -1,3 +1,10 @@
+# [1.4.0-beta.6](https://github.com/fvena/javascript-library-starter1/compare/v1.4.0-beta.5...v1.4.0-beta.6) (2021-02-17)
+
+
+### Features
+
+* vue press config ([d2ffbff](https://github.com/fvena/javascript-library-starter1/commit/d2ffbff2a25c54cad925701cbbcff6f9b3402079))
+
 # [1.4.0-beta.5](https://github.com/fvena/javascript-library-starter1/compare/v1.4.0-beta.4...v1.4.0-beta.5) (2021-02-17)
 
 
