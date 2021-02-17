@@ -5,8 +5,8 @@ on:
     branches: [master, beta]
 
 jobs:
-  Release:
-    name: Semantic Release
+  Deploy:
+    name: Publish documentation
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
