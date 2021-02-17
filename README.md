@@ -45,18 +45,18 @@
   <summary><strong>Tabla de contenidos</strong></summary>
   <ol>
     <li>
-      <a href="#motivacion">Motivación</a>
+      <a href="#motivación">Motivación</a>
     </li>
     <li>
-      <a href="#caracteristicas">Características</a>
+      <a href="#características">Características</a>
     </li>
     <li>
-      <a href="#guia-de-inicio">Guía de inicio</a>
+      <a href="#guía-de-inicio">Guía de inicio</a>
       <ul>
-        <li><a href="#instalacion">Instalación</a></li>
+        <li><a href="#instalación">Instalación</a></li>
         <li><a href="#uso">Uso</a></li>
         <li><a href="#desarrollo">Desarrollo</a></li>
-        <li><a href="#publicacion">Publicación</a></li>
+        <li><a href="#publicación">Publicación</a></li>
       </ul>
     </li>
     <li><a href="#roadmap">Roadmap</a></li>

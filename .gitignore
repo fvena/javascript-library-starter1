@@ -6,3 +6,4 @@ node_modules
 
 # Dev/Build Artifacts
 dist
+docs/.vuepress/dist
