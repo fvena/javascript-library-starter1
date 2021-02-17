@@ -1,12 +1,12 @@
-name: Release
+name: Deploy docs
 
 on:
   push:
     branches: [master, beta]
 
 jobs:
-  Release:
-    name: Semantic Release
+  Deploy:
+    name: Deploy docs
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -15,13 +15,15 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Build library
-        run: npm run build
+      - name: Build documentation
+        run: npm run docs:build
 
-      - name: Run Semantic Release
-        run: npx semantic-release
-        env:
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+          publish_dir: ./docs/.vuepress/dist
+          destination_dir: beta
+          force_orphan: true
           user_name: 'Francisco Vena'
           user_email: 'fvena32@gmail.com'
