@@ -1,3 +1,10 @@
+# [1.4.0-beta.5](https://github.com/fvena/javascript-library-starter1/compare/v1.4.0-beta.4...v1.4.0-beta.5) (2021-02-17)
+
+
+### Bug Fixes
+
+* publicar gh-page ([4794bed](https://github.com/fvena/javascript-library-starter1/commit/4794bed117b95a8df45ade4e3b11875e54b859f5))
+
 # [1.4.0-beta.4](https://github.com/fvena/javascript-library-starter1/compare/v1.4.0-beta.3...v1.4.0-beta.4) (2021-02-17)
 
 
