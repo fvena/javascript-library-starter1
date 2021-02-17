@@ -1,3 +1,10 @@
+# [1.4.0-beta.4](https://github.com/fvena/javascript-library-starter1/compare/v1.4.0-beta.3...v1.4.0-beta.4) (2021-02-17)
+
+
+### Features
+
+* actualizada ruta de documentación ([652de67](https://github.com/fvena/javascript-library-starter1/commit/652de677c3a5ad8aee95319a6f0371592a1ff378))
+
 # [1.4.0-beta.3](https://github.com/fvena/javascript-library-starter1/compare/v1.4.0-beta.2...v1.4.0-beta.3) (2021-02-17)
 
 
