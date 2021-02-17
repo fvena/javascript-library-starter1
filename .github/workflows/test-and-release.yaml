@@ -18,9 +18,6 @@ jobs:
       - name: Build library
         run: npm run build
 
-      - name: Build documentation
-        run: npm run docs:build
-
       - name: Run Semantic Release
         run: npx semantic-release
         env:
