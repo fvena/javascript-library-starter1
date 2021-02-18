@@ -2,7 +2,7 @@ name: Deploy docs
 
 on:
   push:
-    branches: [master, beta]
+    branches: [master]
 
 jobs:
   Deploy:
@@ -23,7 +23,6 @@ jobs:
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./docs/.vuepress/dist
-          destination_dir: beta
           force_orphan: true
           user_name: 'Francisco Vena'
           user_email: 'fvena32@gmail.com'

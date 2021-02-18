@@ -182,7 +182,7 @@ Para publicar tu librería solo tienes que subir los cambios a tu rama `master` 
 - [x] Configurar herramientas para documentar el proyecto, y publicarla automáticamente con Git Actions
 - [x] Documentar un flujo recomendado para utilizar GIT
 - [ ] Configurar `dependabot` para comprobar si hay versiones nuevas de alguna librería que utilice el proyecto
-- [ ] Añadir licencia.
+- [x] Añadir licencia.
 - [ ] Configurar el proyecto como plantilla
 - [ ] Modificar el código de ejemplo en la carpeta src
 - [x] Añadir badgets
