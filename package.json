@@ -1,6 +1,6 @@
 {
   "name": "javascript-library-starter1",
-  "version": "1.4.0-beta.9",
+  "version": "1.5.0",
   "description": "GitHub template for starting new javascript libraries",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",

@@ -1,3 +1,11 @@
+# [1.5.0](https://github.com/fvena/javascript-library-starter1/compare/v1.4.0...v1.5.0) (2021-02-18)
+
+
+### Features
+
+* añadida licencia y plantillas de errores ([47debeb](https://github.com/fvena/javascript-library-starter1/commit/47debebf9f0936f04b0100714c2f6d8503f6576c))
+* asdfa ([fbda765](https://github.com/fvena/javascript-library-starter1/commit/fbda76566b6217f8080c07494c2d065457060b0f))
+
 # [1.4.0-beta.9](https://github.com/fvena/javascript-library-starter1/compare/v1.4.0-beta.8...v1.4.0-beta.9) (2021-02-17)
 
 
