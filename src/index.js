@@ -1,2 +1,3 @@
-export { default as hello } from './hello';
-export { default as goodbye } from './goodbye';
+const sayName = (name) => `Your name is ${name}!`;
+
+export default sayName;

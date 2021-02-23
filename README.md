@@ -24,6 +24,7 @@
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![Release](https://img.shields.io/github/workflow/status/fvena/javascript-library-starter1/Release/master)]()
 [![didor](https://gist.githubusercontent.com/fvena/98e6372b6d98cfa1b357e21d8198db7c/raw/2bb398c74658f9c43cd827426ee5939e9cc330d8/didor_badge.svg)]()
+[![Codecov](https://img.shields.io/codecov/c/github/fvena/javascript-library-starter1)](https://codecov.io/github/fvena/javascript-library-starter1)
 
 </div>
 
@@ -184,7 +185,7 @@ Para publicar tu librería solo tienes que subir los cambios a tu rama `master` 
 - [ ] Configurar `dependabot` para comprobar si hay versiones nuevas de alguna librería que utilice el proyecto
 - [x] Añadir licencia.
 - [ ] Configurar el proyecto como plantilla
-- [ ] Modificar el código de ejemplo en la carpeta src
+- [x] Modificar el código de ejemplo en la carpeta src
 - [x] Añadir badgets
 - [ ] Ejemplo para desarrollar para Node
 - [ ] Ejemplo para desarrollar para el Navegador
