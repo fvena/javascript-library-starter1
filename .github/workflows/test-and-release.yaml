@@ -19,9 +19,7 @@ jobs:
         run: npm run test:coverage
 
       - name: Upload Coverage 2
-        uses: iansu/codecov-action-node@v1.0.1
-        with:
-          token: ${{ secrets.CODECOV_TOKEN }}
+        run: bash <(curl -s https://codecov.io/bash)
 
       - name: Build library
         run: npm run build

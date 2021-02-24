@@ -93,6 +93,11 @@
     "collectCoverageFrom": [
       "<rootDir>/src/**/*.js"
     ],
+    "coverageReporters": [
+      "text",
+      "html",
+      "lcov"
+    ],
     "testEnvironment": "node",
     "testMatch": [
       "<rootDir>/tests/**/*.spec.js"
