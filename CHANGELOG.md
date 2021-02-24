@@ -1,3 +1,10 @@
+# [1.11.0](https://github.com/fvena/javascript-library-starter1/compare/v1.10.0...v1.11.0) (2021-02-24)
+
+
+### Features
+
+* asdfa ([f11bc29](https://github.com/fvena/javascript-library-starter1/commit/f11bc29949f9f102b7d389a14d3be62888a86ed1))
+
 # [1.10.0](https://github.com/fvena/javascript-library-starter1/compare/v1.9.0...v1.10.0) (2021-02-24)
 
 
