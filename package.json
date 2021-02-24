@@ -12,7 +12,15 @@
   "keywords": [
     "template",
     "javascript",
-    "library"
+    "library",
+    "rollup",
+    "eslint",
+    "prettier",
+    "jest",
+    "semantic-release",
+    "commitizen",
+    "husky",
+    "CI"
   ],
   "repository": {
     "type": "git",
@@ -24,7 +32,10 @@
     "dev": "rollup -c -w",
     "build": "rollup -c",
     "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "docs:build": "vuepress build docs",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
   },
   "devDependencies": {
     "@babel/core": "^7.12.10",
@@ -36,6 +47,7 @@
     "@semantic-release/changelog": "^5.0.1",
     "@semantic-release/git": "^9.0.0",
     "babel-eslint": "^10.1.0",
+    "babel-jest": "^26.6.3",
     "commitizen": "^4.2.3",
     "cz-conventional-changelog": "^3.3.0",
     "eslint": "^7.18.0",
@@ -44,6 +56,7 @@
     "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-prettier": "^3.3.1",
     "husky": "^4.3.8",
+    "jest": "^26.6.3",
     "lint-staged": "^10.5.3",
     "prettier": "^2.2.1",
     "rollup": "^2.38.1",
@@ -52,12 +65,7 @@
   },
   "babel": {
     "presets": [
-      [
-        "@babel/env",
-        {
-          "modules": false
-        }
-      ]
+      "@babel/env"
     ]
   },
   "commitlint": {
@@ -80,6 +88,22 @@
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
     }
+  },
+  "jest": {
+    "collectCoverageFrom": [
+      "<rootDir>/src/**/*.js"
+    ],
+    "testEnvironment": "node",
+    "testMatch": [
+      "<rootDir>/tests/**/*.spec.js"
+    ],
+    "transform": {
+      ".*\\.(js)$": "babel-jest"
+    },
+    "verbose": true,
+    "watchPathIgnorePatterns": [
+      "<rootDir>/node_modules/"
+    ]
   },
   "release": {
     "plugins": [

@@ -131,14 +131,6 @@ Indica como los usuarios pueden contribuir a tu librería, normalmente:
 - Convirtiéndote en un colaborador oficial
 - Haciendo una pequeña donación
 
-Tienes que indicar cual sería el flujo para poder contribuir a tu proyecto, por ejemplo:
-
-1. Realice un Fork de este repositorio
-2. Crea una rama con la nueva funcionalidad (`git checkout -b feature/AmazingFeature`)
-3. Realiza un commit con los cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Sube tu rama con los cambios (`git push origin feature/AmazingFeature`)
-5. Solicita un Pull Request
-
 # License
 
 Indicar el tipo de licencia del proyecto ayudará a la gente a saber que puede hacer y que no con tu proyecto. En esta página podrás encontrar plantillas para todo tipo de licencias: [https://opensource.org/licenses](https://opensource.org/licenses), elige bien, ya que determinará el uso que otros podrán hacer de tu librería.

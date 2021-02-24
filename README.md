@@ -24,6 +24,7 @@
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![Release](https://img.shields.io/github/workflow/status/fvena/javascript-library-starter1/Release/master)]()
 [![didor](https://gist.githubusercontent.com/fvena/98e6372b6d98cfa1b357e21d8198db7c/raw/2bb398c74658f9c43cd827426ee5939e9cc330d8/didor_badge.svg)]()
+[![Codecov](https://img.shields.io/codecov/c/github/fvena/javascript-library-starter1)](https://codecov.io/github/fvena/javascript-library-starter1)
 
 </div>
 
@@ -177,14 +178,14 @@ Para publicar tu librería solo tienes que subir los cambios a tu rama `master` 
 
 - [x] Configurar semantic-release y las acciones de github
 - [ ] Configurar test con `jest`, `coverage` y añadirlo a Git Actions
-- [ ] Añadir plantillas README.md, errores y pull-request de Git Hub
+- [x] Añadir plantillas README.md, errores y pull-request de Git Hub
 - [x] Completar el archivo README.md indicando como personalizar y utilizar la plantilla
 - [x] Configurar herramientas para documentar el proyecto, y publicarla automáticamente con Git Actions
 - [x] Documentar un flujo recomendado para utilizar GIT
 - [ ] Configurar `dependabot` para comprobar si hay versiones nuevas de alguna librería que utilice el proyecto
 - [x] Añadir licencia.
 - [ ] Configurar el proyecto como plantilla
-- [ ] Modificar el código de ejemplo en la carpeta src
+- [x] Modificar el código de ejemplo en la carpeta src
 - [x] Añadir badgets
 - [ ] Ejemplo para desarrollar para Node
 - [ ] Ejemplo para desarrollar para el Navegador
@@ -204,26 +205,18 @@ Si quieres aprender más sobre las herramientas que utilizo en esta plantilla y 
 
 Este proyecto es y será siempre de código abierto. Eres bienvenido si quieres contribuir a su desarrollo y mejorarlo cada vez más. Para ello, tienes varias posibilidades:
 
-- Remitiendo errores
-- Solucionando errores
-- Añadiendo nueva funcionalidad
-- Compartiendo en redes sociales
-- Convirtiéndote en un colaborador oficial
-- Haciendo una pequeña donación
-
-Las contribuciones hacen que la comunidad `open source` sea un lugar tan increíble para aprender, inspirar y crear. Cualquier contribución que hagas será muy apreciada.
-
-1. Realice un Fork de este repositorio
-2. Crea una rama con la nueva funcionalidad (`git checkout -b feature/AmazingFeature`)
-3. Realiza un commit con los cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Sube tu rama con los cambios (`git push origin feature/AmazingFeature`)
-5. Solicita un Pull Request
+- [Remitiendo errores](.github/contributing.md#remitiendo-errores)
+- [Solucionando errores](.github/contributing.md#solucionando-errores)
+- [Añadiendo nueva funcionalidad](.github/contributing.md#añadiendo-nueva-funcionalidad)
+- [Compartiendo en redes sociales](.github/contributing.md#compartiendo-en-redes-sociales-%EF%B8%8F)
+- [Convirtiéndote en un colaborador oficial](.github/contributing.md#conviértete-en-un-colaborador-oficial)
+- [Haciendo una pequeña donación](.github/contributing.md#haciendo-una-pequeña-donación)
 
 <!-- LICENCIA -->
 
 ## Licencia
 
-El código está disponible bajo la licencia MIT. Esto significa que puedes usarlo, modificarlo o hacer lo que quieras con él. Esto también significa que lo ofrezco de forma gratuita, así que si encuentras algún error, repórtalo o solucionalo y contribuye al proyecto, pero no lo critiques.
+El código está disponible bajo la licencia MIT. Esto significa que puedes usarlo, modificarlo o hacer lo que quieras con él. Esto también significa que lo ofrezco de forma gratuita, así que si encuentras algún error no lo critiques, contribuye al proyecto y repórtalo o mejor aún, solucionalo, será un placer añadirte como colaborador.
 
 <!-- CONTACTO -->
 
