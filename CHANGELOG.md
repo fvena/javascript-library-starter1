@@ -1,3 +1,10 @@
+# [1.7.0](https://github.com/fvena/javascript-library-starter1/compare/v1.6.0...v1.7.0) (2021-02-24)
+
+
+### Features
+
+* update release ([86c25fe](https://github.com/fvena/javascript-library-starter1/commit/86c25feaf046d4eb9a76a4894715a6ce02e517f0))
+
 # [1.6.0](https://github.com/fvena/javascript-library-starter1/compare/v1.5.0...v1.6.0) (2021-02-24)
 
 
