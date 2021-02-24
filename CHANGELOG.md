@@ -1,3 +1,10 @@
+# [1.10.0](https://github.com/fvena/javascript-library-starter1/compare/v1.9.0...v1.10.0) (2021-02-24)
+
+
+### Features
+
+* codecov ([baf262b](https://github.com/fvena/javascript-library-starter1/commit/baf262b866ed8b22b943ba29092f6399ef638c6b))
+
 # [1.9.0](https://github.com/fvena/javascript-library-starter1/compare/v1.8.0...v1.9.0) (2021-02-24)
 
 
