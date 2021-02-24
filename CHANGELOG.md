@@ -1,3 +1,12 @@
+# [1.6.0](https://github.com/fvena/javascript-library-starter1/compare/v1.5.0...v1.6.0) (2021-02-24)
+
+
+### Features
+
+* **asdfa:** asdfas asdfasda asdfasdf ([f972b5a](https://github.com/fvena/javascript-library-starter1/commit/f972b5aefab416d6eed6170884cd9a6633fc366b))
+* **test:** añadiendo test ([206d0aa](https://github.com/fvena/javascript-library-starter1/commit/206d0aa61061a6690a6e0ae86f3d157eb5b08507))
+* **test:** optimizando los test ([11d0382](https://github.com/fvena/javascript-library-starter1/commit/11d03823d9952415addc4ad506611004a6b57011))
+
 # [1.5.0](https://github.com/fvena/javascript-library-starter1/compare/v1.4.0...v1.5.0) (2021-02-18)
 
 
