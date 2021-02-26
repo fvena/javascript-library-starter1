@@ -7,10 +7,12 @@
 <p align="center">
   <a href="">
     <p align='center'>
-      <!-- Añade tu logo o una imagen de portada -->
-      <!-- Ayuda a captar la atención de la gente, queda genial y demuestra que te has currado todos los detalles -->
-      <!-- Las dimensiones optimas para tu imagen de portada son 1280x650px, además también la puedes utilizar en github como vista previa para las redes sociales: https://docs.github.com/es/github/administering-a-repository/customizing-your-repositorys-social-media-preview -->
-      <!-- Si no tienes mucha experiencia con programas de diseño, puedes utilizar  https://www.canva.com para crear tus imágenes, la versión gratuita tiene todo lo básico -->
+      <!--
+      Añade tu logo o una imagen de portada.
+      Ayuda a captar la atención de la gente, queda genial y demuestra que te has currado todos los detalles.
+      Las dimensiones optimas para tu imagen de portada son 1280x650px, además también la puedes utilizar en github como vista previa para las redes sociales: https://docs.github.com/es/github/administering-a-repository/customizing-your-repositorys-social-media-preview.
+      Si no tienes mucha experiencia con programas de diseño, puedes utilizar  https://www.canva.com para crear tus imágenes, la versión gratuita tiene todo lo básico.
+      -->
     </p>
   </a>
 
@@ -22,13 +24,16 @@
 <br/>
 
 <div align="center">
-<!-- Existen un sinfín de insignias que puedes utilizar en tus proyectos. Dependerá del proyecto, aunque los más comunes son los siguientes.-->
-<!-- Yo suelo usar https://shields.io/ para generar las insignias.-->
+<!--
+Existen un sinfín de insignias que puedes utilizar en tus proyectos. Dependerá del proyecto, aunque los más comunes son los siguientes.
+Yo suelo usar https://shields.io/ para generar las insignias.
+-->
 
 [![SemVer](https://img.shields.io/npm/v/javascript-library-starter)]()
 [![npm bundle size](https://img.shields.io/bundlephobia/min/javascript-library-starter)]()
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![Release](https://img.shields.io/github/workflow/status/fvena/javascript-library-starter/Release/master)]()
+[![Codecov](https://img.shields.io/codecov/c/github/fvena/javascript-library-starter)](https://codecov.io/github/fvena/javascript-library-starter)
 
 </div>
 
