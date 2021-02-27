@@ -1,3 +1,71 @@
+# [1.4.0-beta.9](https://github.com/fvena/javascript-library-starter1/compare/v1.4.0-beta.8...v1.4.0-beta.9) (2021-02-17)
+
+### Features
+
+- asdfa ([fbda765](https://github.com/fvena/javascript-library-starter1/commit/fbda76566b6217f8080c07494c2d065457060b0f))
+
+# [1.4.0-beta.8](https://github.com/fvena/javascript-library-starter1/compare/v1.4.0-beta.7...v1.4.0-beta.8) (2021-02-17)
+
+### Features
+
+- adfasdfasdfa ([827764d](https://github.com/fvena/javascript-library-starter1/commit/827764d041b367fb3d34015c6133b10a8df318c6))
+
+# [1.4.0-beta.7](https://github.com/fvena/javascript-library-starter1/compare/v1.4.0-beta.6...v1.4.0-beta.7) (2021-02-17)
+
+### Features
+
+- asdfasdfasd ([b92777a](https://github.com/fvena/javascript-library-starter1/commit/b92777a4752ba03277fcfeb7de865008a22f25cb))
+
+# [1.4.0-beta.6](https://github.com/fvena/javascript-library-starter1/compare/v1.4.0-beta.5...v1.4.0-beta.6) (2021-02-17)
+
+### Features
+
+- vue press config ([d2ffbff](https://github.com/fvena/javascript-library-starter1/commit/d2ffbff2a25c54cad925701cbbcff6f9b3402079))
+
+# [1.4.0-beta.5](https://github.com/fvena/javascript-library-starter1/compare/v1.4.0-beta.4...v1.4.0-beta.5) (2021-02-17)
+
+### Bug Fixes
+
+- publicar gh-page ([4794bed](https://github.com/fvena/javascript-library-starter1/commit/4794bed117b95a8df45ade4e3b11875e54b859f5))
+
+# [1.4.0-beta.4](https://github.com/fvena/javascript-library-starter1/compare/v1.4.0-beta.3...v1.4.0-beta.4) (2021-02-17)
+
+### Features
+
+- actualizada ruta de documentación ([652de67](https://github.com/fvena/javascript-library-starter1/commit/652de677c3a5ad8aee95319a6f0371592a1ff378))
+
+# [1.4.0-beta.3](https://github.com/fvena/javascript-library-starter1/compare/v1.4.0-beta.2...v1.4.0-beta.3) (2021-02-17)
+
+### Features
+
+- asdfafdsafasd ([f549e5e](https://github.com/fvena/javascript-library-starter1/commit/f549e5ecfcc1de4c3d7d403a6921fc8ff61ed468))
+
+# [1.4.0-beta.2](https://github.com/fvena/javascript-library-starter1/compare/v1.4.0-beta.1...v1.4.0-beta.2) (2021-02-17)
+
+### Features
+
+- asdfasdfa ([7db0f50](https://github.com/fvena/javascript-library-starter1/commit/7db0f503decddf431b5590644fa3b395d5014a57))
+
+# [1.4.0-beta.1](https://github.com/fvena/javascript-library-starter1/compare/v1.3.0...v1.4.0-beta.1) (2021-02-16)
+
+### Bug Fixes
+
+- conflicto ([a7f3bcc](https://github.com/fvena/javascript-library-starter1/commit/a7f3bcc93c03808bf0e006659ad82c5f00f8cd39))
+
+### Features
+
+- añadiendo más plugins ([64af2c7](https://github.com/fvena/javascript-library-starter1/commit/64af2c72564861819db159cd52a07b364affd03a))
+- fix ([45cc75e](https://github.com/fvena/javascript-library-starter1/commit/45cc75e6175224253c1674bc89dd9443950a7037))
+- fix2 ([29e54b8](https://github.com/fvena/javascript-library-starter1/commit/29e54b824b1369bfc4f809b4f68d270652b03961))
+- merge remote ([12a3f71](https://github.com/fvena/javascript-library-starter1/commit/12a3f7161e7d5103668c3851587799a1911e07ef))
+- simplificando la configuración de semantic-release ([b9ba0da](https://github.com/fvena/javascript-library-starter1/commit/b9ba0da583b9615c95b9f62a65b045b4c17731c8))
+
+# [1.3.0-beta.3](https://github.com/fvena/javascript-library-starter1/compare/v1.3.0-beta.2...v1.3.0-beta.3) (2021-02-01)
+
+### Features
+
+- añadiendo más plugins ([64af2c7](https://github.com/fvena/javascript-library-starter1/commit/64af2c72564861819db159cd52a07b364affd03a))
+
 # [1.3.0-beta.1](https://github.com/fvena/javascript-library-starter1/compare/v1.2.0...v1.3.0-beta.1) (2021-01-31)
 
 ### Features

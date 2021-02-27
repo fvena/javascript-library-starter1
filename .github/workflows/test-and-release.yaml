@@ -2,7 +2,7 @@ name: Release
 
 on:
   push:
-    branches: [master, beta]
+    branches: [master]
 
 jobs:
   Release:
@@ -15,6 +15,12 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Run tests
+        run: npm run test:coverage
+
+      - name: Upload Coverage 2
+        run: bash <(curl -s https://codecov.io/bash)
+
       - name: Build library
         run: npm run build
 
@@ -23,3 +29,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+          user_name: 'Francisco Vena'
+          user_email: 'fvena32@gmail.com'
