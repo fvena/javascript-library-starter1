@@ -177,12 +177,12 @@ Para publicar tu librería solo tienes que subir los cambios a tu rama `master` 
 ## Roadmap
 
 - [x] Configurar semantic-release y las acciones de github
-- [ ] Configurar test con `jest`, `coverage` y añadirlo a Git Actions
+- [x] Configurar test con `jest`, `coverage` y añadirlo a Git Actions
 - [x] Añadir plantillas README.md, errores y pull-request de Git Hub
 - [x] Completar el archivo README.md indicando como personalizar y utilizar la plantilla
 - [x] Configurar herramientas para documentar el proyecto, y publicarla automáticamente con Git Actions
 - [x] Documentar un flujo recomendado para utilizar GIT
-- [ ] Configurar `dependabot` para comprobar si hay versiones nuevas de alguna librería que utilice el proyecto
+- [x] Configurar `dependentabot` para comprobar si hay versiones nuevas de alguna librería que utilice el proyecto
 - [x] Añadir licencia.
 - [ ] Configurar el proyecto como plantilla
 - [x] Modificar el código de ejemplo en la carpeta src
