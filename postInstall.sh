@@ -80,7 +80,7 @@ mv javascript-library-starter.code-workspace "$LIBRARY_NAME.code-workspace"
 echo -e "${CYAN}javascript-library-starter.code-workspace => $LIBRARY_NAME.code-workspace${NC}"
 
 # Actualiza el README.md
-sed -i "" -E "s~<repo>~$REPO~g;s~<library>~$LIBRARY_NAME~g" README_template.md > README.md
+sed "s~<repo>~$REPO~g;s~<library>~$LIBRARY_NAME~g" README_template.md > README.md
 echo -e "${CYAN}README_template.md => README.md${NC}"
 
 #
