@@ -103,3 +103,9 @@ echo
 echo -e "${GREEN}OK, todo listo. Feliz desarrollo ;)${NC}"
 echo
 echo
+
+#
+# Añadiendo los cambios al último commit
+#
+git add .
+git commit --amend
