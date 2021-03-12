@@ -4,8 +4,8 @@ VERSION="0.1.0"
 AUTHOR=$(git config user.name)
 EMAIL=$(git config user.email)
 URL_REMOTE=$(git config --get remote.origin.url) || echo "there is no remote named 'origin'"
+URL_REMOTE=${URL_REMOTE%".git"}
 REPO=${URL_REMOTE#"https://github.com/"}
-REPO=${REPO%".git"}
 YEAR=$(date +'%Y')
 
 # Decoración
@@ -89,7 +89,7 @@ echo -e "${CYAN}README_template.md => README.md${NC}"
 echo
 echo
 echo -e "${UNDERLINE}Eliminados${NORMAL}"
-# rm README_template.md CHANGELOG.md postInstall.sh
+rm README_template.md CHANGELOG.md postInstall.sh
 echo -e "${RED}README_template.md${NC}"
 echo -e "${RED}CHANGELOG.md${NC}"
 echo -e "${RED}postInstall.sh${NC}"
