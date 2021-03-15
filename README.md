@@ -23,8 +23,8 @@
 [![npm bundle size](https://img.shields.io/bundlephobia/min/javascript-library-starter1)]()
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![Release](https://img.shields.io/github/workflow/status/fvena/javascript-library-starter1/Release/master)]()
-[![didor](https://gist.githubusercontent.com/fvena/98e6372b6d98cfa1b357e21d8198db7c/raw/2bb398c74658f9c43cd827426ee5939e9cc330d8/didor_badge.svg)]()
 [![Codecov](https://img.shields.io/codecov/c/github/fvena/javascript-library-starter1)](https://codecov.io/github/fvena/javascript-library-starter1)
+[![didor](https://gist.githubusercontent.com/fvena/98e6372b6d98cfa1b357e21d8198db7c/raw/2bb398c74658f9c43cd827426ee5939e9cc330d8/didor_badge.svg)]()
 
 </div>
 
@@ -177,12 +177,12 @@ Para publicar tu librería solo tienes que subir los cambios a tu rama `master` 
 ## Roadmap
 
 - [x] Configurar semantic-release y las acciones de github
-- [ ] Configurar test con `jest`, `coverage` y añadirlo a Git Actions
+- [x] Configurar test con `jest`, `coverage` y añadirlo a Git Actions
 - [x] Añadir plantillas README.md, errores y pull-request de Git Hub
 - [x] Completar el archivo README.md indicando como personalizar y utilizar la plantilla
 - [x] Configurar herramientas para documentar el proyecto, y publicarla automáticamente con Git Actions
 - [x] Documentar un flujo recomendado para utilizar GIT
-- [ ] Configurar `dependabot` para comprobar si hay versiones nuevas de alguna librería que utilice el proyecto
+- [x] Configurar `dependentabot` para comprobar si hay versiones nuevas de alguna librería que utilice el proyecto
 - [x] Añadir licencia.
 - [ ] Configurar el proyecto como plantilla
 - [x] Modificar el código de ejemplo en la carpeta src
