@@ -1,3 +1,55 @@
+# [1.11.0](https://github.com/fvena/javascript-library-starter1/compare/v1.10.0...v1.11.0) (2021-02-24)
+
+
+### Features
+
+* asdfa ([f11bc29](https://github.com/fvena/javascript-library-starter1/commit/f11bc29949f9f102b7d389a14d3be62888a86ed1))
+
+# [1.10.0](https://github.com/fvena/javascript-library-starter1/compare/v1.9.0...v1.10.0) (2021-02-24)
+
+
+### Features
+
+* codecov ([baf262b](https://github.com/fvena/javascript-library-starter1/commit/baf262b866ed8b22b943ba29092f6399ef638c6b))
+
+# [1.9.0](https://github.com/fvena/javascript-library-starter1/compare/v1.8.0...v1.9.0) (2021-02-24)
+
+
+### Features
+
+* asdfas ([b02a877](https://github.com/fvena/javascript-library-starter1/commit/b02a877edb6925c14d8af8152b5761166b266212))
+
+# [1.8.0](https://github.com/fvena/javascript-library-starter1/compare/v1.7.0...v1.8.0) (2021-02-24)
+
+
+### Features
+
+* asdfasdaf ([909f95d](https://github.com/fvena/javascript-library-starter1/commit/909f95d0f52a3328445361807b68189b5aa1b8ca))
+
+# [1.7.0](https://github.com/fvena/javascript-library-starter1/compare/v1.6.0...v1.7.0) (2021-02-24)
+
+
+### Features
+
+* update release ([86c25fe](https://github.com/fvena/javascript-library-starter1/commit/86c25feaf046d4eb9a76a4894715a6ce02e517f0))
+
+# [1.6.0](https://github.com/fvena/javascript-library-starter1/compare/v1.5.0...v1.6.0) (2021-02-24)
+
+
+### Features
+
+* **asdfa:** asdfas asdfasda asdfasdf ([f972b5a](https://github.com/fvena/javascript-library-starter1/commit/f972b5aefab416d6eed6170884cd9a6633fc366b))
+* **test:** añadiendo test ([206d0aa](https://github.com/fvena/javascript-library-starter1/commit/206d0aa61061a6690a6e0ae86f3d157eb5b08507))
+* **test:** optimizando los test ([11d0382](https://github.com/fvena/javascript-library-starter1/commit/11d03823d9952415addc4ad506611004a6b57011))
+
+# [1.5.0](https://github.com/fvena/javascript-library-starter1/compare/v1.4.0...v1.5.0) (2021-02-18)
+
+
+### Features
+
+* añadida licencia y plantillas de errores ([47debeb](https://github.com/fvena/javascript-library-starter1/commit/47debebf9f0936f04b0100714c2f6d8503f6576c))
+* asdfa ([fbda765](https://github.com/fvena/javascript-library-starter1/commit/fbda76566b6217f8080c07494c2d065457060b0f))
+
 # [1.4.0-beta.9](https://github.com/fvena/javascript-library-starter1/compare/v1.4.0-beta.8...v1.4.0-beta.9) (2021-02-17)
 
 
